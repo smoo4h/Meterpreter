@@ -1,0 +1,27 @@
+Jun 7, 2023
+ 1. We went through the server code and understood the requirements of client code.
+ 2. We were facing some issues with starting the server.
+
+Jun 8, 2023
+ 1. Professor uploaded the new server code, and now the server was working.
+ 2. We now started working on the client code.
+ 3. We took reference from Lab 3 in which we implemented Python Flask server and also file download using WinInet.
+
+Jun 9, 2023
+ 1. Today we are stuck with the code in which the downloaded file is constant, that is 1366 KB.
+ 2. We tried debugging it and implement it in different ways but we were not able to resolve the issue.
+ 3. We have decided to explore this issue in our free time and meet again the next day.
+
+Jun 10-11, 2023
+ 1. These two days we were working on the same issue.
+ 2. All three of us tried different methodologies and code changes to solve the issue.
+ 3. We were finally able to resolve the issue and our code was working fine.
+ 4. We will be documenting our code and create the required batch files the next day.
+
+Jun 12, 2023
+ 1. After finalizing our code, making any necessary changes, we updated our main README.md file.
+ 2. We made the required batch files and test cases and verified their working.
+ 3. We mentioned the changes that we did in the server code in CHANGES.md file present in the Server/ directory.
+ 4. Finally, here is our statistics on estimated time of project completion versus the actual time taken for completion
+  4.1. Estimated time: 10 hours
+  4.2. Actual time: 13 hours

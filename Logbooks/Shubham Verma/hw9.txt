@@ -1,0 +1,17 @@
+20th July
+- On the 20th of July, we accomplished lab9.01, which significantly enhanced our comprehension of hw9.
+
+21st July
+- On the 21st of July, we initiated our work on hw9, diligently following the steps previously executed in lab9.01.
+- During the process, we encountered some difficulties with patches 17th, 18th, and 19th.
+- After conducting thorough research and utilizing online resources, we successfully managed to implement those patches.
+
+22nd July
+- Today, the 22nd of July, we achieved a significant milestone by successfully completing all the required patches, leading to the desired outcome of the homework.
+- Subsequently, we dedicated our efforts to creating the defender.patch file, ensuring that any new mimikatz.sln can incorporate these patches to bypass detection.
+
+24th July
+- On the 24th of July, our agenda includes finalizing the test cases and addressing any remaining minor tasks.
+- Here are the time statistics for the project:
+- Expected Time: 10-12 hours
+- Actual Time: 11 Hours

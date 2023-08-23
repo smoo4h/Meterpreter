@@ -1,0 +1,19 @@
+Aug 3, 2023
+	1. We started working on DLL.
+	2. We completed the pre-requisite lab assignment for this hw and it helped us understand hw11 better.
+
+Aug 4, 2023
+	1. We completed the ExecuteW function implementation which would help us make DLL for screenshot functionality.
+	2. We completed the integration of jitter to the client side.
+
+Aug 5, 2023
+	1. After integrating the jitter functionality, we integrated the screenshot functionality into our client.
+	2. The screenshot is taken when we enter the command in CLI.
+	3. However, we are facing an issue sending this screenshot over to the server, which we will be working on.
+
+Aug 7, 2023
+	1. We found the solution to our problem.
+	2. Now both screenshot and jitter functionalities are working as per assignment requirements.
+	3. The following is the time statistics for this hw:
+		3.1. Estimated time: 6 hours
+		3.2. Actual time: 10 hours

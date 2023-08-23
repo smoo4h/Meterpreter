@@ -1,0 +1,18 @@
+Jul 27, 2023
+	1. We completed our labs which were quite helful in understanding this hw.
+	2. We started working on "ExecuteW" function to create required DLL for this hw.
+
+Jul 28, 2023
+	1. We tested working of our DLL using the loader provided to us in hw8.
+	2. This was our first draft and it did not accepted arguments which was required for hw10.
+	3. We updated our DLL code and get it working.
+	4. We made changes to CLI and server code so that it performs the required tasks.
+
+Jul 29, 2023
+	1. After completion of DLL and CLI code, we focussed on client side code.
+	2. We corrected our previous mistake in writing DLL to the disk which we fixed.
+	3. We got our client working after rectifying all the tasks and it is now working properly.
+	4. We then worked on testing the entire hw and create test cases.
+	5. The following is the time statistics for this hw:
+		5.1. Expected time: 10 hours
+		5.2. Actual time: 6 hours

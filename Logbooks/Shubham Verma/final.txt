@@ -1,0 +1,18 @@
+August 8th:
+  1. Commenced work on encryption and development of Mimikatz DLL.
+  2. Encountered initial challenges with DLL development; decided to address them alongside resolving W4 errors.
+
+August 10th:
+  1. Began optimizing code and rectifying any overlooked issues.
+
+August 12th:
+  1. Successfully completed code optimization.
+  2. Resolved all W4 errors.
+  3. Shifted focus to setting up AES encryption.
+
+August 14th:
+  1. Achieved functionality with Mimikatz DLL.
+  2. Tasked with finalizing homework by implementing encryption.
+  3. Time taken for homework:
+    3.1 Actual: 12 hours
+    3.2 Expected: 10 hours

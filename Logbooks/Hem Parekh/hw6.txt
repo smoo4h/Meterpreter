@@ -1,0 +1,24 @@
+28th June
+	1. Today we had our first meeting and since our group was lagging behind with hw5 - scinject, we also discussed it along with the requirements of hw6.
+	2. We understood the requirements of hw6 and distributed our tasks.
+
+29th June
+	1. We started working on hw5 first since we realized that we were making some minor mistakes in the code. 
+
+30th June
+	1. Today we were finally able to get scinject completed and started working on completing test cases for the same.
+
+1st July
+	1. After today we started working on hw6 (task 2 and task 7).
+	2. After understanding the requirements and code sample given to us by the professor in the assignment, we started working on task 7.
+	3. We did encounter errors in the beginning but could get through them.
+
+2nd July
+	1. Today we worked on task 2 (uploaded).
+	2. Since this code made use of the download functionality that we had previously defined, we used that code as our base code.
+
+3rd July
+	1. After completing all the requirements of hw6, we worked on completing all markdown files and test cases.
+	2. Finally, this assignment was completed before our estimated time as the major part of the code was implemented by us beforehand in previous hw and labs, thus reducing the actual time. The following is the stats listing estimated and actual time:
+		2.1. Estimated time: 10 hours
+		2.2. Actual time: 8 hours approximately

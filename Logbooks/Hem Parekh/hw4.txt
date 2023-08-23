@@ -1,0 +1,30 @@
+13th June 2023 
+    1. We went through the assignment requirements. 
+    2. We had a meeting where we collectively decided to understand the working of server code individually so that in the next meeting we can put forth our understandings.
+    3. This meeting was solely discussion about our interpertation of the assigment and lasted approx 45mins.
+
+14th June 2023
+    1. Today we had a meeting where we exchanged our thoughts about the server code. 
+    2. We still have some doubts about its working which we hope to get it cleared by tomorrow.
+    3. The duration of this meeting was also approx 45-60 mins.
+
+15th June 2023
+    1. All of us have understood the server code.
+    2. We decided to start working on the client code.
+    3. We took the main.cpp code from hw3 and decided to expand on that.
+    4. We struggled initially but later were able to figure it out and our code is working perfectly as required.
+    5. From tomorrow we hope to start working on test cases.
+    6. This meeting lasted approx 150 mins.
+
+16th June 2023
+    1. Today in meeting we gathered our inputs on how we are going to define our test cases.
+    3. We decided to put approx 9 test cases.
+    2. This meeting was approx 30mins.
+
+19th June 2023
+    1. Finally after figuring out how our test cases would work we defined them and made sure that all of them succeed. 
+    2. Once the test cases worked properly, we tried to optimise our code.
+    3. The meeting lasted approx 60-70mins.
+    4. Finally, here is our statistics on estimated time of project completion versus the actual time taken for completion
+        4.1. Estimated time: 6 hours
+        4.2. Actual time: 7.5 hours

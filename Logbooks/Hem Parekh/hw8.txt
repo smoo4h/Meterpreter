@@ -1,0 +1,21 @@
+13th July
+	1. We went through the homework requirements. 
+	2. We understood the changes required in the server-side code.
+
+14th July
+	1. We made changes on the server side and tested if it was working properly.
+	2. We also made the required changes in the CLI code.
+
+15th July
+	1. We started working on task 9. Though we knew that the functionality would be similar to the loader (lab08), initially we were confused about the execution.
+	2. After a few trials and errors we understood the client-side requirements.
+
+16th July
+	1. We finally got task 9 working perfectly as required.
+	2. Task 10 had somewhat similar functionality with a few changes and we made sure to complete that too.
+
+17th July
+	1. We performed all the test cases mentioned by the professor in the assignment and made sure that our code worked perfectly.
+	2. The following is the estimated and total time taken:
+		2.1 Estimated Time: 10-11 hours
+		2.2 Actual time: 10 hours. (Approx)

@@ -1,0 +1,15 @@
+20th July
+	1. Completed lab9.01, which gave us a better understanding of hw9
+21st July
+	1. We started working on hw9, and followed the steps that we had performed in lab9.01.
+	2. After a while we struggled on patch 17th, 18th, and 19th. 
+	3. After googling about it and researching a bit we were able to perform those patches as well.
+22nd July
+	1. Today we finally completed all the patches and were able to get the desired outcome of the homework.
+	2. Then we worked on creating the defender.patch file so that any new mimikatz.sln can have the same patches to allow it to bypass detection.
+
+24th July
+	1. Today we will be completing the test cases as well as all the other minor things.
+	2. Here's how much time it took us to complete
+		2.1 Expected Time: 10-12hours
+		2.2 Actual Time: 11 Hours

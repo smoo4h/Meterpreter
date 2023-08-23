@@ -1,0 +1,18 @@
+8th August
+  1. We started working on encryption as well as developing the dll for Mimikatz.
+  2. We did face some issues while developing the dll and over the next few days we decided to work on that while we also work on solving the W4 errors.
+
+10th August
+  1. We started working on optimizing our code and rectifying any previous mistakes or any previous requirements that we may have overlooked.
+
+12th August
+  1. We were able to complete optimizing our code and also successfully handle all W4 errors.
+  2. Now we will be concentrating on setting up AES encryption which is the requirement.
+
+14th August
+  1. We were able to get the mimikatz dll working.
+  2. Now we will be completing our final hw by completing the encryption.
+  3. Here is the time that we needed to complete this hw
+    3.1 Actual Time: 12 hrs
+    3.2 Expected Time: 10 Hrs
+

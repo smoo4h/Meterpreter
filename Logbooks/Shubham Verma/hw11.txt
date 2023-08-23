@@ -1,0 +1,20 @@
+August 3rd:
+
+1.Our focus shifted towards finalizing the dll.
+2.We successfully wrapped up the lab assignment, a necessary precursor for the upcoming homework.
+August 4th:
+
+1.Post-lecture, a productive meeting led to the completion of the "ExecuteW" function, a crucial step in crafting the screenshot-enabled dll.
+2.Concurrently, we successfully integrated "jitter" on the client side.
+August 5th:
+
+1.Building upon the integration of jitter, we seamlessly fused screenshot functionality into our client system.
+2.As a result, initiating the command on the cli now triggers successful screenshot captures.
+3.Although we've made substantial progress, challenges remain in transmitting the screenshot data to the server, which demands our continued attention.
+August 7th:
+
+1.Resolution emerged for the previously encountered challenge.
+2.Both screenshot and jitter functionalities now align seamlessly with the assignment requirements.
+3.The time breakdown for this endeavor is as follows:
+	3.1 Estimated Time: 6 hours
+	3.2 Actual time: Approximately 10 hours.

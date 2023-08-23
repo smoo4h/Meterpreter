@@ -1,0 +1,19 @@
+27th July 2023
+
+The labs, which served as prerequisites for this homework, have been successfully completed.
+After finishing part 1 for both labs, our focus shifted to completing the "ExecuteW" function in order to create the required DLL for the homework.
+28th July 2023
+
+Once the initial draft of the DLL was ready, we tested its functionality using the provided loader in hw8.
+The first draft did not fulfill the requirement of accepting arguments for hw10.
+Modifications were made to the DLL to address the issues, and it was made to work correctly.
+Subsequently, we made necessary adjustments to the CLI and server code to ensure they performed the required tasks.
+29th July 2023
+
+With the DLL, CLI, and server code ready, we shifted our attention to getting the client side to function correctly.
+We realized that in hw8, there was a mistake of writing the DLL to the disk, which we corrected to avoid repeating the same error in this assignment.
+After rectifying all our mistakes, the client for hw10 was successfully implemented, and it performed all the required tasks.
+We are now proceeding to complete the test cases.
+Here is the time breakdown for the completion of the homework:
+5.1 Actual Time: 6 hours
+5.2 Expected Time: 10 hours

@@ -1,0 +1,26 @@
+Jun 7th 2023
+    1. We understood the server code and the requirement of client code.
+    2. We were facing some errors in the server code.
+
+Jun 8th 2023
+    1. During the lecture with professor, the server code was corrected.
+    2. Then we started working on the client side code where we took some help from lab3, where we had implemented flask code.
+
+June 9th 2023
+    1. Today we are stuck with a code which only downloads 1366kb of the entire file. 
+    2. We have tried debugging it and implementing it in a different way but we cant seem to come up with plausible explaination.
+    3. Due to this we decided to explore a bit and meet tomorrow.
+
+June 10th-11th 2023
+    1. These two days pretty much went in solving the issue that we were facing reagarding the accepting chunk of data from the server.
+    2. All three of us tried different approach, a different outlook so that we can reach to a solution.
+    3. By the end of the day we were able to solve the solution and our code was working as expected.
+    4. Now the only thing that was left was to make a readme.md file and complete different bat files to try out the test cases.
+
+June 12th 2023
+    1. After making some minor changes in the code, we updated our ReadMe.md file.
+    2. We also make some changes in the server code and the details about is mentioned in the changes.md file.
+    3. All the test cases are working properly and the final code also works perfectly.
+    4. Finally, here is our statistics on estimated time of project completion versus the actual time taken for completion
+  4.1. Estimated time: 10 hours
+  4.2. Actual time: 13 hours

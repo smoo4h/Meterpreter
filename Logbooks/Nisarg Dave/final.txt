@@ -1,0 +1,19 @@
+Aug 8, 2023
+  1. We started working on encryption and DLL for Mimikatz.
+  2. We were also parallelly working on W4 errors.
+  3. We faced some issues while developing the DLL for Mimikatz and we will be working on that.
+
+Aug 10, 2023
+  1. We started optimizing our code.
+  2. We resolved past issues/mistakes and some requirements that we might have overlooked back then.
+
+Aug 12, 2023
+  1. We finally optimized our code and successfully handled W4 errors.
+  2. We will work on AES encryption now.
+
+Aug 14, 2023
+  1. Mimikatz DLL is now working.
+  2. We will be completing our final hw by completing the encryption part.
+  3. The following are the time statistics for this final hw:
+    3.1. Estimated time: 12 hours
+    3.2. Actual time: 10 hours

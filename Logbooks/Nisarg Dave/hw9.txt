@@ -1,0 +1,17 @@
+Jul 20, 2023
+  1. We finished Lab09.01 which introduced us to mimikatz.
+  2. This helped us to get a base knowledge and understanding of this homework.
+
+Jul 21, 2023
+  1. We started working on hw9, with taking references from Lab09.01.
+  2. We struggled in patches 17, 18, and 19, but we eventually figured those out.
+
+Jul 22, 2023
+  1. We have now completed all the necessary patches to evade detection.
+  2. We worked on defender.patch so that our patches can be applied to new mimikatz.sln.
+
+Jul 24, 2023
+  1. We made some minor required changes and performed all the required tests.
+  2. The following is the time statistics for this homework:
+    2.1. Estimated time: 10-12 hours
+    2.2. Actual time: 11 hours

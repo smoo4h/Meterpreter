@@ -1,0 +1,14 @@
+13th June 2023
+    1. We just read the assignment document and setup folder structure. 
+    2. We started figuring out the server code and ran the server.
+
+14th June 2023
+    1. We understood the requirments and flow of the server code. 
+    2. There are some error we sare still getting from server, need to resolve those.
+
+15th June 2023
+    1. All of us have understood the server code.
+    2. We worked on the client code and started coding POST requests.
+    3. We are using our Lab3 code and expanding on that.
+    4. After struggling we managed to complete the code and requests are running successfully.
+    5. we need to work on test cases and we will complete them by tomorrow.

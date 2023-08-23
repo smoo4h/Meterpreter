@@ -1,0 +1,13 @@
+*.log
+.vs/
+v15/
+packages/
+*.tlog
+__pycache__/
+data.db
+*.db
+*.zip
+Server/data
+x64/Debug
+Debug
+__pycache__

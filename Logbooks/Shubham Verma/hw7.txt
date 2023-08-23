@@ -1,0 +1,17 @@
+July 5th:
+
+We have initiated our efforts to comprehend the assignment specifications.
+We have realized that it will be necessary to work on the "config.h" file in order to define all the constants.
+July 6th:
+
+Upon grasping the requirements for type 8, we commenced working on our code.
+We also established the requirements within our config.h file.
+July 9th:
+
+While attempting to send the JSON request, we encountered an error.
+July 10th:
+
+We successfully resolved the error, and our code now operates correctly according to all the requirements.
+Ultimately, this assignment was completed earlier than expected, as we had already implemented a significant portion of the code in previous homework and labs, thus reducing the actual time. The following statistics outline the estimated and actual time:
+2.1. Estimated time: 12 hours
+2.2. Actual time: Approximately 11.5 hours

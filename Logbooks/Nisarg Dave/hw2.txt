@@ -1,0 +1,33 @@
+May 31, 2023
+  1. We all met and read hw2.
+  2. We setup the GitHub repository with suggested folder structure and made initial commits.
+  3. We decided to first study wincrypt and learn necessary functionalities provided to wincrypt to get a better understanding of the functions we are supposed to use in our hw2.
+  4. We decided to meet tomorrow after we have read about wincrypt so that we can start building the code.
+
+Jun 1, 2023
+  1. We all met again today and worked on the 4 functions that we are supposed to implement and complete.
+  2. Initially, we struggled a bit in defining the functions and using them to encode/decode the string.
+  3. We discussed the difficulties we faced and solved each others' problems.
+  4. Finally, later at night we were able to successfully implement all the 4 functions and successfully encode and decode a given string.
+  5. We have decided to meet again tomorrow, and work on the unit test cases.
+
+Jun 2, 2023
+  1. Today we all met and worked on creating test cases and runnning them successfully.
+  2. We have created 7 different test cases, 4 for encoding and 3 for decoding.
+  3. We have included normal string, blank string (""), string with only space (" "), and a string with wrong-matched output encoded string.
+  4. Similarly, for decoding, we have included normal string, string with only space (" "), and a string with wrong-matched decoded string.
+  5. All of our test cases were passed and the overall project was running as expected.
+  6. We created the .bat files for both running Base64 encoding functions and also for their tests.
+  7. We will meet tomorrow and work on readME.md files.
+
+Jun 3, 2023
+  1. Today we reviewed our code, checked whether everything is working fine and checked for any redundant code.
+  2. We created the first draft of hw2.md. We will finalise it later, just in case of anything is left to add or delete.
+  3. We expect to finish our project tomorrow.
+
+Jun 5, 2023
+  1. Today is the final day of our assignment. We met and reviewed our code to see if everything is as expected.
+  2. We created the main README.md file giving a general overview of our project..
+  3. Here is the statistics of our estimated and actual time of completion (both are approximate times):
+    3.1. Estimated: 12 hours
+    3.2. Actual: 15 hours

@@ -1,0 +1,16 @@
+Jul 5, 2023:
+	1. We discussed and understood the requirements of this assignment.
+	2. This time we have to config.h file too.
+
+Jul 6, 2023:
+	1. We started working on task type 8 after understanding its requirements.
+	2. We also defined config.h file as required.
+
+Jul 9, 2023:
+	1. We are facing an error while sending the json request.
+
+Jul 10, 2023:
+	1. We were able to solve the error and our code was working fine.
+	2. Here is the estimated time statistics for this assignment:
+		2.1. Estimated time: 12 hours
+		2.2. Actual time: 11.5 hours approximately

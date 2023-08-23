@@ -1,0 +1,26 @@
+Jun 28, 2023
+	1. Today was our first meeting as we lagged behind due to incomplete hw5 (scinject to be specific) and focussed on it.
+	2. Discussed requirements of hw6 and understood the assignment.
+
+Jun 29, 2023
+	1. We worked on hw5 first to correct some mistakes.
+
+Jun 30, 2023
+	1. We were able to complete all the requirements of hw5, even testing.
+	2. We will be working on hw6 from tomorrow.
+
+Jul 1, 2023
+	1. We again looked at hw6 requirements and discussed them.
+	2. We understood the code given by the professor.
+	3. We started working on task 7. We faced some errors but eventually solved them.
+
+Jul 2, 2023
+	1. We worked on task 2.
+	2. We referred to the Download code we had used previously on labs and hw and finished our code for task 2.
+
+Jul 3, 2023
+	1. We worked on test cases to test our hw. All of our defined test cases were working as expected.
+	2. Completed all the required .md files.
+	3. Finally, this assignment was completed before our estimated time as the major part of the code was implemented by us beforehand in previous hw and labs, thus reducing the actual time. The following is the stats listing estimated and actual time:
+		3.1. Estimated time: 10 hours
+		3.2. Actual time: 8 hours approximately

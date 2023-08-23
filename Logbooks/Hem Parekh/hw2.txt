@@ -1,0 +1,34 @@
+31st May 
+    1. We discussed about how to start with HW2.
+    2. We also successfully commited our inital  HW2 folder/files to github repository.
+    3. For start we have each decided to go through wincrypt functions provided in the reference, so that each gets a better understanding about how we can start working with Base64EncodeA and Base64DecodeA.
+    4. At the end we decided to meet tomorrow, to discuss further and start working on code.
+
+1st June, 2023  
+	1. Today we worked on Base64EncodeA and Base64Encode as well as Base64DecodeA and Base64Decode
+	2. Initially we were struggling with the understanding of the layout of the hw2 as a whole and defining the referenced functions given by the professor.
+	3. Later, during the day we took a meeting and help each other clear all the doubts we had.
+	4. By night we were able to successfully get the Decode and Encode work properly without any errors.
+	5. After today we will be working on defining test cases and making sure that they produce the desired output.
+
+2nd June 2023
+	1. Today we worked on testcases. We created 7 (4 for encoding and 3 for decoding) different cases each producing the desired output.
+	2. The first test case just compared the output of the base64encode with the correct hash.
+	3. The 2nd test case consisted of a blank string.
+	4. The 3rd test cases was on a " " (space) string.
+	5. The 4th test case showed the result did not match if you tried to comparing a wrong hash with the hash produced by the function.
+	6. The above four cases were also made for Decode Function.
+	7. Since the test cases and the program was running properly, tomorrow we will be working on completing the readMe.md files.
+
+3rd June 2023
+	1. Today we worked on revamping the code and to see if there is any redundant code can be removed.
+	2. Another thing that completed was the 'Hw2.md'. This is the first draft and we may change it if required.
+	3. There is a still few minor things left to be completed which we hope to finish by tomorrow.
+
+June 5th 2023
+	1. Today being the last day, all of updated our final logbooks along with some changes in the readMe.md files. 
+	2. In the main readMe.md file we gave an overview of our assignment as a whole.
+	3. Another readMe.md file inside the base64 folder explains the working of our code.
+	4. Finally this is what our actual and expected time for the completion of our HW2.
+		a. Expected: 12hrs
+		b. Actual: Around 15hrs

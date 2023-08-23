@@ -1,0 +1,24 @@
+21st June
+    1. We had our first meeting today.
+    2. Went through hw5 and understood its requirements.
+
+22nd June
+    1. At first we decided to go with task 6.
+    2. It was easy and the only part that took our time was to get username of the process.
+    3. It took us a bit time but we got through it.
+
+23rd June  
+    1. We started working on task 11.
+    2. We did faced issues regarding the injecting of bin file directly into the pid.
+
+
+25th June
+    1. Today we were able to solve the previous issue but faced some issue with the API call.
+
+1st July
+    1. We had asked professor for extension since there were two issues that we were facing.
+	a. We were unable to retrieve process username when we ran the client with admin privileges
+	b. We were will strugling with task 11.
+    2. Eventually we were able to solve both the issues.
+    3. Expected Time: 10 hrs.
+       Actual Time : A little over 16hrs.

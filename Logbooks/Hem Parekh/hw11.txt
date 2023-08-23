@@ -1,0 +1,19 @@
+3rd August
+  1. We started working on completing the dll. 
+  2. First we completed the lab assignment which was a pre-req for the hw. 
+
+4th August
+  1. After our lecture, we had a meeting where we completed the "ExecuteW" function which would help us in making the dll for screenshot functionality.
+  2. We also completed integrating "jitter" on the client side.
+
+5th August
+  1. After integrating the jitter, we integrated our client with screenshot functionality.
+  2. Now we are able to successfully take screenshots when the command is entered on the cli.
+  3. We are still facing issues while sending the screenshot data to the server, and that is something we will be working on.
+
+7th August
+  1. We were able to find the solution to the problem that we were facing. 
+  2. Now screenshot and jitter, both are working according to the assignment requirement.
+  3. The following is the estimated and total time taken:
+		3.1 Estimated Time: 6 hours
+		3.2 Actual time: 10 hours. (Approx)

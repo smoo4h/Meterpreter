@@ -1,0 +1,22 @@
+Jul 13, 2023
+  1. We understood and went through the requirements in the server code.
+
+Jul 14, 2023
+  1. We made the necessary changes on the server side and tested its working.
+  2. We also made changes to the CLI code.
+
+Jul 15, 2023
+  1. We started working on task 9.
+  2. It was similar to the loader that we did in Lab 8. However, we were initially confused as to how to execute it.
+  3. We understood the client's requirements via trial and error method.
+
+Jul 16, 2023
+  1. Task 9 is done.
+  2. Task 10 was also good with similar functionalities. 
+
+Jul 17, 2023
+  1. All the test cases were successful. 
+  2. We did changes suggested by the professor and updated our code.
+  3. The following is the estimated and total time taken:
+		2.1 Estimated Time: 10-11 hours
+		2.2 Actual time: 10 hours.(Approx)

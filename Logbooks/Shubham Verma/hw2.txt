@@ -1,0 +1,34 @@
+31st May 1:30 AM - 3:00 AM
+    1. Initial discussion about encoding/decoding base64 and understanding hw2.
+    2. We initialised our repository with dummy code.
+    3. Learnt about wincrypt library of windows. 
+    4. At the end we decided to meet tomorrow, to discuss further and start working on code.
+
+June 1, 2023  
+	1. We worked on Encode and Decode functions of hw2.
+	2. After reviewing documentation of wincrypt and little bit of struggle we were able to implement encode and decode functions.
+	3. Later, during the day we took a meeting and help each other clear all the doubts we had.
+	4. By later that day at night our function for encoding and decoding were working properly and we tested them with multiple inputs.
+	5. From tomorrow we will work on test cases.
+
+June 2, 2023
+	1. We were working on testcases and decided to make 7 different test cases, 4 for encode funtion and 3 for decode function.
+	2. First test case for both the decode and encode function is best test case scenario, taking a normal string as input.
+	3. The second test case is worst case where we are passing empty string ("") as input.
+	4. The third test case was a " " (space) string, average test case scenario.
+	5. For fourth test case we check with wrong output and make sure that the output from function doesnt match.
+	6. Similar test cases were made for decode function.
+	7. After successful completion of test cases, we will now work on updating README document.
+	
+Jun 3, 2023
+  	1. We met to have discussion and review on the code. 
+  	2. We discussed ideas on what to be included in the README files.
+  	3. We will complete the project by tomorrow or day after tomorrow including the README files
+
+Jun 5, 2023
+	1. We have completed our project today including the creation and changes in README file. 
+	2. In the main README we provide Introduction, Installation and Usage of our repository.
+	3. The README under Base64/ directory provides explaination of the function used. And the README under Testing/ directory explains test cases.
+	4. Finally this is what our actual and expected time for the completion of our HW2.
+		a. Expected: 12hrs
+		b. Actual: Around 15hrs
